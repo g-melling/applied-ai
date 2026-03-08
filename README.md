@@ -1,2 +1,2 @@
 # applied-ai
-Optimisation algorithms and ML
+A selection of AI optimisation algorithms written in Python.
